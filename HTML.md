@@ -133,7 +133,7 @@ Comment 2 <br>
 
    > **emmet** 
    >
-   > `ul>`
+   > `ul>li{无序列表内容$}*3`
 
    + 有序列表
 
@@ -146,7 +146,7 @@ Comment 2 <br>
 
    > **emmet** 
    >
-   > `ol>`
+   > `ol>li{Content $}*3`
 
    + 定义列表
 
